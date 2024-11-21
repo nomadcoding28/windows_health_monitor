@@ -1,0 +1,144 @@
+2024-11-20 17:48:23 | CPU: 1.1% | Memory: 75.3% | Disk: 71.2%
+2024-11-20 17:48:24 | CPU: 4.2% | Memory: 75.3% | Disk: 71.2%
+2024-11-20 17:48:25 | CPU: 4.8% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:26 | CPU: 1.4% | Memory: 75.5% | Disk: 71.2%
+2024-11-20 17:48:27 | CPU: 1.0% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:28 | CPU: 1.1% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:29 | CPU: 1.7% | Memory: 75.5% | Disk: 71.2%
+2024-11-20 17:48:30 | CPU: 6.4% | Memory: 75.5% | Disk: 71.2%
+2024-11-20 17:48:31 | CPU: 4.3% | Memory: 75.5% | Disk: 71.2%
+2024-11-20 17:48:32 | CPU: 3.6% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:33 | CPU: 4.7% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:34 | CPU: 4.1% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:48:35 | CPU: 6.6% | Memory: 75.4% | Disk: 71.2%
+2024-11-20 17:59:28 | CPU: 1.2% | Memory: 74.6% | Disk: 71.2% | Net Sent: 65.08 MB | Net Received: 1029.70 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=0.0%] | Battery: 87% Discharging | Uptime: 1:53:57.927950 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:30 | CPU: 2.5% | Memory: 74.6% | Disk: 71.2% | Net Sent: 65.09 MB | Net Received: 1029.71 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1523.7%] | Battery: 87% Discharging | Uptime: 1:53:59.794352 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:32 | CPU: 1.1% | Memory: 74.5% | Disk: 71.2% | Net Sent: 65.09 MB | Net Received: 1029.72 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1539.8%] | Battery: 87% Discharging | Uptime: 1:54:01.584677 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:34 | CPU: 1.9% | Memory: 74.5% | Disk: 71.2% | Net Sent: 65.10 MB | Net Received: 1029.72 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1548.5%] | Battery: 87% Discharging | Uptime: 1:54:03.353731 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:36 | CPU: 2.2% | Memory: 74.5% | Disk: 71.2% | Net Sent: 65.10 MB | Net Received: 1029.73 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1540.4%] | Battery: 87% Discharging | Uptime: 1:54:05.135297 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:37 | CPU: 1.0% | Memory: 74.5% | Disk: 71.2% | Net Sent: 65.11 MB | Net Received: 1029.73 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1552.1%] | Battery: 87% Discharging | Uptime: 1:54:06.954537 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:39 | CPU: 1.2% | Memory: 74.5% | Disk: 71.2% | Net Sent: 65.13 MB | Net Received: 1029.75 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1547.0%] | Battery: 87% Discharging | Uptime: 1:54:08.739941 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:41 | CPU: 4.6% | Memory: 74.4% | Disk: 71.2% | Net Sent: 65.13 MB | Net Received: 1029.75 MB | Processes: 340 | Top Process: [PID=0, Name=System Idle Process, CPU=1507.2%] | Battery: 87% Discharging | Uptime: 1:54:10.519274 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:43 | CPU: 4.2% | Memory: 74.3% | Disk: 71.2% | Net Sent: 65.14 MB | Net Received: 1029.75 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1502.9%] | Battery: 87% Discharging | Uptime: 1:54:12.330316 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:45 | CPU: 5.2% | Memory: 74.3% | Disk: 71.2% | Net Sent: 65.14 MB | Net Received: 1029.75 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1485.8%] | Battery: 87% Discharging | Uptime: 1:54:14.142377 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:46 | CPU: 9.3% | Memory: 74.2% | Disk: 71.2% | Net Sent: 65.14 MB | Net Received: 1029.76 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1457.4%] | Battery: 87% Discharging | Uptime: 1:54:15.906397 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:48 | CPU: 4.9% | Memory: 74.2% | Disk: 71.2% | Net Sent: 65.14 MB | Net Received: 1029.77 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1505.0%] | Battery: 87% Discharging | Uptime: 1:54:17.654451 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:50 | CPU: 2.7% | Memory: 74.3% | Disk: 71.2% | Net Sent: 65.71 MB | Net Received: 1029.79 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1521.1%] | Battery: 87% Discharging | Uptime: 1:54:19.388600 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:52 | CPU: 3.2% | Memory: 74.3% | Disk: 71.2% | Net Sent: 69.07 MB | Net Received: 1029.86 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1533.0%] | Battery: 87% Discharging | Uptime: 1:54:21.177364 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:53 | CPU: 0.9% | Memory: 74.2% | Disk: 71.2% | Net Sent: 69.07 MB | Net Received: 1029.86 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1546.8%] | Battery: 87% Discharging | Uptime: 1:54:22.969846 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:55 | CPU: 1.2% | Memory: 74.2% | Disk: 71.2% | Net Sent: 69.07 MB | Net Received: 1029.86 MB | Processes: 339 | Top Process: [PID=0, Name=System Idle Process, CPU=1545.0%] | Battery: 87% Discharging | Uptime: 1:54:24.910959 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 17:59:57 | CPU: 2.6% | Memory: 74.2% | Disk: 71.2% | Net Sent: 69.07 MB | Net Received: 1029.86 MB | Processes: 338 | Top Process: [PID=0, Name=System Idle Process, CPU=1550.4%] | Battery: 87% Discharging | Uptime: 1:54:26.696773 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 18:12:33 | CPU: 2.3% | Memory: 75.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:34 | CPU: 5.1% | Memory: 75.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:35 | CPU: 1.8% | Memory: 75.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:36 | CPU: 2.4% | Memory: 75.7% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:37 | CPU: 0.9% | Memory: 75.7% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:39 | CPU: 4.5% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:40 | CPU: 4.2% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:41 | CPU: 4.6% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:42 | CPU: 4.9% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:43 | CPU: 5.0% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:44 | CPU: 6.2% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:45 | CPU: 3.7% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:46 | CPU: 1.3% | Memory: 75.6% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:48 | CPU: 1.3% | Memory: 75.5% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:49 | CPU: 2.1% | Memory: 75.4% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:50 | CPU: 3.6% | Memory: 75.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:51 | CPU: 3.9% | Memory: 76.2% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:52 | CPU: 1.6% | Memory: 76.2% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:53 | CPU: 3.0% | Memory: 76.2% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:54 | CPU: 2.5% | Memory: 76.1% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:55 | CPU: 3.5% | Memory: 75.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:57 | CPU: 3.1% | Memory: 75.3% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:58 | CPU: 2.3% | Memory: 75.1% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:12:59 | CPU: 2.0% | Memory: 74.9% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:13:00 | CPU: 6.0% | Memory: 74.9% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:13:01 | CPU: 1.6% | Memory: 74.7% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:33 | CPU: 6.9% | Memory: 74.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:34 | CPU: 7.8% | Memory: 74.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:35 | CPU: 5.0% | Memory: 74.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:36 | CPU: 7.8% | Memory: 74.8% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:38 | CPU: 6.3% | Memory: 74.7% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:39 | CPU: 8.9% | Memory: 75.3% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:40 | CPU: 6.6% | Memory: 75.3% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:41 | CPU: 8.0% | Memory: 75.3% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:42 | CPU: 6.0% | Memory: 75.1% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:15:43 | CPU: 5.5% | Memory: 75.1% | Disk: 71.3%
+  GPU-1 (Intel(R) Iris(R) Xe Graphics): Util: N/A%, Mem Util: N/A%, Temp: N/A°C
+
+2024-11-20 18:58:43 | CPU: 2.8% | Memory: 77.4% | Disk: 71.3% | Net Sent: 76.36 MB | Net Received: 1042.30 MB | Processes: 350 | Top Process: [PID=0, Name=System Idle Process, CPU=0.0%] | Battery: 66% Discharging | Uptime: 2:53:11.064348 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 18:58:44 | CPU: 5.2% | Memory: 77.4% | Disk: 71.3% | Net Sent: 76.37 MB | Net Received: 1042.30 MB | Processes: 355 | Top Process: [PID=0, Name=System Idle Process, CPU=1507.5%] | Battery: 65% Discharging | Uptime: 2:53:12.937307 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 18:58:46 | CPU: 2.1% | Memory: 77.3% | Disk: 71.3% | Net Sent: 76.38 MB | Net Received: 1042.31 MB | Processes: 349 | Top Process: [PID=0, Name=System Idle Process, CPU=1544.0%] | Battery: 65% Discharging | Uptime: 2:53:14.812523 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 19:07:34 | CPU: 2.0% | Memory: 77.2% | Disk: 71.3% | Net Sent: 80.91 MB | Net Received: 1043.66 MB | Processes: 344 | Top Process: [PID=0, Name=System Idle Process, CPU=0.0%] | Battery: 61% Discharging | Uptime: 3:02:02.121406 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 19:07:36 | CPU: 5.0% | Memory: 77.7% | Disk: 71.3% | Net Sent: 80.93 MB | Net Received: 1043.67 MB | Processes: 345 | Top Process: [PID=0, Name=System Idle Process, CPU=1493.4%] | Battery: 61% Discharging | Uptime: 3:02:04.057883 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
+2024-11-20 19:07:37 | CPU: 3.6% | Memory: 77.7% | Disk: 71.3% | Net Sent: 80.96 MB | Net Received: 1043.68 MB | Processes: 347 | Top Process: [PID=0, Name=System Idle Process, CPU=1490.5%] | Battery: 61% Discharging | Uptime: 3:02:05.926035 | CPU Temp: N/A°C | GPU Util: N/A% | GPU Memory: N/A% | GPU Temp: N/A°C
